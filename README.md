@@ -1,3 +1,5 @@
+The main code is in the `src` folder. This project uses json.simple for handling JSON.
+
 # How to Use JSON.simple in Your Java Project
 
 This guide will help you set up **JSON.simple** in **VS Code**, **IntelliJ IDEA**, and **Eclipse**.
